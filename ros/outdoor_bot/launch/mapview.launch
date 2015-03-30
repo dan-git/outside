@@ -1,0 +1,6 @@
+<launch>
+  <node name="map_server" pkg="map_server" type="map_server" args="$(find outdoor_bot)/maps/first_floor_edited.yaml">
+     <param name="frame_id" value="map"/>
+  </node>
+</launch>
+
