@@ -9,6 +9,8 @@
   <review status="unreviewed" notes=""/>
   <url>http://ros.org/wiki/FBFSM</url>
 
+  <depend package="roscpp" />
+
 </package>
 
 

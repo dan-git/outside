@@ -11,7 +11,7 @@
 //#include <opencv2/features2d/features2d.hpp>
 #include <opencv2/nonfree/features2d.hpp>
 #include <opencv2/calib3d/calib3d.hpp>
-#include "/home/dbarry/Dropbox/outdoor_bot/software/ros/outdoor_bot/src/robustMatcher.h"
+#include "../src/robustMatcher.h"
 //#include <opencv2/legacy/legacy.hpp>
 
 using namespace std;
