@@ -1,0 +1,14 @@
+<package>
+  <description brief="FBFSM">
+
+     FBFSM
+
+  </description>
+  <author>jbarry</author>
+  <license>BSD</license>
+  <review status="unreviewed" notes=""/>
+  <url>http://ros.org/wiki/FBFSM</url>
+
+</package>
+
+
